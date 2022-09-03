@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website (https://https://harbiodunjay24.github.io/error404page/
+- Website https://harbiodunjay24.github.io/error404page
 - GitHub [@harbiodunjay24](https://github.com/harbiodunjay24)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
